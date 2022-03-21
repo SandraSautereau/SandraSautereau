@@ -1,18 +1,36 @@
-### Hi there ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://user-images.githubusercontent.com/88667588/157057592-285ec82c-c289-455c-a7a9-95aecd8097d9.gif)
-Hi, I'm Sandra Sautereau.
-<!--
-**SandraSautereau/SandraSautereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://user-images.githubusercontent.com/88667588/157057592-285ec82c-c289-455c-a7a9-95aecd8097d9.gif" width="55"> Hi , I'm SandraSautereau <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+Previously freelance graphic designer, I am now a fullsatck JavaScript web developer.</p>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CREATIVE+|+CURIOUS+|+RIGOUROUS+|+INDEPENDENT;PROFESSIONAL+RECONVERSION;&center=true&width=500&height=50"></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-    ![html](https://user-images.githubusercontent.com/88667588/157058702-8b821d01-c984-4c39-831f-178f40004f98.png)
+## Languages 
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5 logo" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3 logo" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript logo" />&emsp;
 
+## Back skills 
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express logo" />&emsp;
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgreSQL logo" />&emsp;
+<img width="70" height="32" src="https://sqitch.org/img/sqitch-logo.svg" alt="sqitch logo" />&emsp;
+<img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="heroku logo" />&emsp;
+<img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis logo" />&emsp;
+
+
+
+
+## Currently learning...
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" />&emsp;
+
+
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandra-sautereau/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
+
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=SandraSautereau&label=Profile%20views&color=0e75b6&style=plastic" alt="SandraSautereau" /> 
+</p>
