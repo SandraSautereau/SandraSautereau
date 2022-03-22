@@ -25,12 +25,12 @@ Previously freelance graphic designer, I am now a fullsatck JavaScript web devel
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandra-sautereau/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sandrasautereau/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Sandrasautereau&label=Profile%20views&color=0e75b6&style=plastic" alt="SandraSautereau" /> 
+	<img src="https://komarev.com/ghpvc/?username=SandraSautereau&label=Profile%20views&color=0e75b6&style=plastic" alt="SandraSautereau" /> 
 </p>
