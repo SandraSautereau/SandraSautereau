@@ -32,5 +32,5 @@ Previously freelance graphic designer, I am now a fullsatck JavaScript web devel
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=SandraSautereau&label=Profile%20views&color=0e75b6&style=plastic" alt="SandraSautereau" /> 
+	<img src="https://komarev.com/ghpvc/?username=Sandrasautereau&label=Profile%20views&color=0e75b6&style=plastic" alt="SandraSautereau" /> 
 </p>
