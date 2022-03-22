@@ -23,7 +23,7 @@ Previously freelance graphic designer, I am now a fullsatck JavaScript web devel
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" />&emsp;
 
 
-## Connect with me:
+## Connect with me :
 <p align="left">
   <a href="https://www.linkedin.com/in/sandrasautereau/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
